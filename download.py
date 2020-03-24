@@ -20,7 +20,7 @@ from selenium.webdriver.common.keys import Keys
 
 
 main_keywords = {'아이유': 'lilyiu_', '차은우': 'eunwo.o_c'}
-download_dir = '../image_instagram/'
+download_dir = './image_instagram/'
 link_files_dir = './data/link_files/'
 log_dir = './data/logs/'
 path = './chromedriver/chromedriver'

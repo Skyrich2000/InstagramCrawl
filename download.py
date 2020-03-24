@@ -1,18 +1,8 @@
 # -*- coding: utf-8 -*-
 # @Author: WuLC
 # @Date:   2017-09-27 23:02:19
-# @Last Modified by:   Arthur 
-# @Last Modified time: 2020-03-11 15:36:58
-
-
-####################################################################################################################
-# Download images from google with specified keywords for searching
-# search query is created by "main_keyword + supplemented_keyword"
-# if there are multiple keywords, each main_keyword will join with each supplemented_keyword
-# Use selenium and urllib, and each search query will download any number of images that google provide
-# allow single process or multiple processes for downloading
-# Pay attention that since selenium is used, geckodriver and firefox browser is required
-####################################################################################################################
+# @Last Modified by:   Skyrich
+# @Last Modified time: 2020-03-24 22:10:55
 
 import os
 import json

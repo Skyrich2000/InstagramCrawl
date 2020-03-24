@@ -14,7 +14,7 @@ from selenium.webdriver.common.keys import Keys
 
 
 main_keywords = ['IU']
-download_dir = '../image_instagram/'
+download_dir = './image_instagram/'
 link_files_dir = './data/link_files/'
 log_dir = './data/logs/'
 cores = 4
